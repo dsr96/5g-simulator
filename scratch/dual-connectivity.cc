@@ -27,10 +27,6 @@
 #include <string>
 #include <vector>
 #include <cmath>
-
-#include <dlib/random_forest.h>
-#include <dlib/svm.h>
-#include <dlib/statistics.h>
 #include <unordered_map>
 
 /**
@@ -43,7 +39,6 @@
   */
 
 using namespace ns3;
-using namespace dlib;
 
 NS_LOG_COMPONENT_DEFINE ("dual-connectivity");
 
