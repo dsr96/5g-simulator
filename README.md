@@ -15,6 +15,7 @@ Developed by David Segura Ramos (PhD student in the field of cellular communicat
 - 3GPP 38.901 [1] Indoor Factory propagation loss model in all its variants (InF-SH, InF-DH, InF-SL, InF-DL)
 - BWs parts with reconfigurable bandwidth and resource allocation
 - Dual-connectivity feature, with Packet Duplication approach for downlink transmissions [2]
+- RRC Idle state with configurable inactivity timer
 - 5G RRC Inactive state [3]
 
 ## Building project
